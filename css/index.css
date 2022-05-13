@@ -2,4 +2,10 @@ body {
     background-color: #FFA1A1;
 
     font-family: sans-serif;
+
+    background-size: 100%;
+
+    text-align: center;
+
+    /**background-image: **/
 }
