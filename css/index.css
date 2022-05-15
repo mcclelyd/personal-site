@@ -7,5 +7,16 @@ body {
 
     text-align: center;
 
+
     /**background-image: **/
 }
+
+.profile {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
