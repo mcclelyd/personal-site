@@ -1,5 +1,5 @@
 body {
-    /**background-color: #FFA1A1;**/
+    
 
     font-family: sans-serif;
 
@@ -8,46 +8,22 @@ body {
     text-align: center;
 
 
-    /**background-image: **/
 }
 
-.profile {
+/*Commenting out to center them*/
+/* .profile {
     margin: auto;
     position: relative;
     right: 600px;
-    /* height: 100px;
-    width: 100px;
-    text-align: center;
-    padding: 20px;
-    margin: auto; */
-    
+
 }
 
 .ext-links {
     margin: auto;
     position: relative;
     right: 600px;
-    /* text-align: left; */
-    /* text-align: center;
-    position: relative;
-    right: 200px;
-    top: 400px; */
-}
-
-.buttons {
-    
-}
-
-.buttons:hover {
-    background-color: green;
-    color: pink;
-}
-
-
-
-/* .experience {
-
 } */
+
 
 
 
