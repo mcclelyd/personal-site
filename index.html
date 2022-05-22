@@ -21,27 +21,24 @@
 </div>
 
 <div class="ext-links">
-    <a href="https://www.linkedin.com/in/lydia-mccleary">LinkedIn</a> <br>
-    <a href="https://www.github.com/mcclelyd">GitHub</a> <br>
-    <a href="aboutme.html">Get to Know Me!</a>
-</div>
+    <button id="li-btn">LinkedIn</button>
+    <button id="gh-btn">GitHub</button>
+    <button id="about-btn">Get to Know Me!</button>
 
-<div class="experience">
-
-</div>
-
-
-
-
-<!--<button id="LinkedInButton" >LinkedIn</button>
-<script>
+    <script>
+        document.getElementById("li-btn").onclick = function() {
+            location.href="https://www.linkedin.com/in/lydia-mccleary"
+        };
     
-</script> -->
+        document.getElementById("gh-btn").onclick = function() {
+            location.href="https://www.github.com/mcclelyd"
+        };
+    
+        document.getElementById("about-btn").onclick = function() {
+            location.href="aboutme.html"
+        };
+    </script>
+</div>
 
-<!-- <button>LinkedIn</button>
-<br> <br>
-<button>GitHub</button>
-<br> <br>
-<button>Get to Know Me!</button> -->
 
 </body>

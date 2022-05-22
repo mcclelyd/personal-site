@@ -34,9 +34,20 @@ body {
     top: 400px; */
 }
 
-.experience {
-
+.buttons {
+    
 }
+
+.buttons:hover {
+    background-color: green;
+    color: pink;
+}
+
+
+
+/* .experience {
+
+} */
 
 
 
